@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.9-alpine
 # MAINTAINER Sergey (@Kylmakalle) <iceman9831@gmail.com>
 
 ENV PYTHONUNBUFFERED 1
